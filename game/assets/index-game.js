@@ -20870,7 +20870,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           }
           var _0x25ff0e;
           var _0x2a27c4 = [_0x2e298c + Math.cos(_0x147800) * _0x3fcdd6, _0x556ab9 + Math.sin(_0x147800) * _0x3fcdd6];
-          for (; _0x4f4395 < 1;) {
+          while (_0x4f4395 < 1) {
             _0x25ff0e = _0x11e31b * _0x4f4395 + _0x147800;
             _0x2a27c4.push(_0x2e298c + Math.cos(_0x25ff0e) * _0x3fcdd6, _0x556ab9 + Math.sin(_0x25ff0e) * _0x3fcdd6);
             _0x4f4395 += _0x319c13;
@@ -25846,7 +25846,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           y: _0x4602e7
         });
         var _0x444582 = 1;
-        for (; _0x402c0c !== _0x51bd1b || _0x4602e7 !== _0xc4471a;) {
+        while (_0x402c0c !== _0x51bd1b || _0x4602e7 !== _0xc4471a) {
           var _0x5acd73 = _0x3c6a08 << 1;
           if (_0x5acd73 > -_0x5d97f7) {
             _0x3c6a08 -= _0x5d97f7;
@@ -27486,7 +27486,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           var _0x5ab439;
           var _0x35865f;
           var _0x3ba9a4 = _0x38eb09;
-          for (; _0x38eb09.prev !== _0x38eb09.next;) {
+          while (_0x38eb09.prev !== _0x38eb09.next) {
             _0x5ab439 = _0x38eb09.prev;
             _0x35865f = _0x38eb09.next;
             if (_0x132835 ? _0x3aab64(_0x38eb09, _0x5c67c0, _0x39ec55, _0x132835) : _0x5b552b(_0x38eb09)) {
@@ -36688,7 +36688,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           return 1;
         }
         var _0x29c359 = _0x462343;
-        for (; --_0x462343;) {
+        while (--_0x462343) {
           _0x29c359 *= _0x462343;
         }
         return _0x29c359;
@@ -45328,7 +45328,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
             _0x23ed15.lastUpdatesDeferred = 0;
             var _0xee3b1 = _0x23ed15.maxUpdates || Math.ceil(_0x23ed15.maxFrameTime / _0x42daa3);
             var _0x1fc2a3 = _0x189be3.now();
-            for (; _0x42daa3 > 0 && _0x23ed15.timeBuffer >= _0x42daa3 * _0x563e96._timeBufferMargin;) {
+            while (_0x42daa3 > 0 && _0x23ed15.timeBuffer >= _0x42daa3 * _0x563e96._timeBufferMargin) {
               _0x59875f.update(_0x2a8975, _0x42daa3);
               _0x23ed15.timeBuffer -= _0x42daa3;
               _0x58a1bb += 1;
@@ -47511,7 +47511,8 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
                 var _0x2cb951 = _0x2d4b9f > 1 ? 1 : 0;
                 for (var _0x4a757b = _0x222b0c > 1 ? 1 : 0; _0x4a757b < _0x222b0c; _0x4a757b++) {
                   var _0x1ae523 = _0x41bc3d.parts[_0x4a757b];
-                  for (var _0x1625bc = (_0x5174d8 = _0x1ae523.bounds, _0x2cb951); _0x1625bc < _0x2d4b9f; _0x1625bc++) {
+                  _0x5174d8 = _0x1ae523.bounds;
+                  for (var _0x1625bc = _0x2cb951; _0x1625bc < _0x2d4b9f; _0x1625bc++) {
                     var _0x4b9de8;
                     var _0x3b2592 = _0x121507.parts[_0x1625bc];
                     var _0x2d91f8 = _0x3b2592.bounds;
@@ -61383,7 +61384,8 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
         };
       }
       function _0x51f2bb(_0x598416, _0x4c226b, _0x360ba5, _0x5215cb, _0x35ca17) {
-        for (var _0x114b87, _0x3f46aa = [_0x4c226b, _0x360ba5]; _0x3f46aa.length;) {
+        var _0x114b87;
+        for (var _0x3f46aa = [_0x4c226b, _0x360ba5]; _0x3f46aa.length;) {
           if (!((_0x360ba5 = _0x3f46aa.pop()) - (_0x4c226b = _0x3f46aa.pop()) <= _0x5215cb)) {
             _0x114b87 = _0x4c226b + Math.ceil((_0x360ba5 - _0x4c226b) / _0x5215cb / 2) * _0x5215cb;
             _0xdd2d21(_0x598416, _0x114b87, _0x4c226b, _0x360ba5, _0x35ca17);
@@ -61407,7 +61409,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           var _0x51ffe8;
           var _0x15d873;
           var _0x50a53a = [];
-          for (; _0x2b98cd;) {
+          while (_0x2b98cd) {
             _0x25a2d2 = 0;
             _0x383adf = _0x2b98cd.children.length;
             for (; _0x25a2d2 < _0x383adf; _0x25a2d2++) {
@@ -61437,7 +61439,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           var _0x126c4f;
           var _0x254f93;
           var _0x3250e2 = [];
-          for (; _0x35c87f;) {
+          while (_0x35c87f) {
             _0x2a4f85 = 0;
             _0x27f763 = _0x35c87f.children.length;
             for (; _0x2a4f85 < _0x27f763; _0x2a4f85++) {
@@ -61494,7 +61496,11 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
           if (!_0x9fa4c5) {
             return this;
           }
-          for (var _0x5349a2, _0x16c100, _0x959910, _0x4119f3, _0x1c0c8 = this.data, _0x47ae27 = this.toBBox(_0x9fa4c5), _0x5f5b1a = [], _0x531401 = []; _0x1c0c8 || _0x5f5b1a.length;) {
+          var _0x5349a2;
+          var _0x16c100;
+          var _0x959910;
+          var _0x4119f3;
+          for (var _0x1c0c8 = this.data, _0x47ae27 = this.toBBox(_0x9fa4c5), _0x5f5b1a = [], _0x531401 = []; _0x1c0c8 || _0x5f5b1a.length;) {
             if (!_0x1c0c8) {
               _0x1c0c8 = _0x5f5b1a.pop();
               _0x16c100 = _0x5f5b1a[_0x5f5b1a.length - 1];
@@ -61539,7 +61545,7 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
         },
         _all: function (_0x44be34, _0xe8ca3e) {
           var _0x47860e = [];
-          for (; _0x44be34;) {
+          while (_0x44be34) {
             if (_0x44be34.leaf) {
               _0xe8ca3e.push.apply(_0xe8ca3e, _0x44be34.children);
             } else {
@@ -61585,7 +61591,13 @@ const s = t(e ? i.exports : (e = 1, i.exports = (() => {
         _chooseSubtree: function (_0x2a36dd, _0x5ac0a9, _0x53129e, _0x17b4ef) {
           var _0x538011;
           var _0x470755;
-          for (var _0x1f55a6, _0x5c0ddc, _0x202b5e, _0x4a4aa9, _0x1276ef, _0x891208; _0x17b4ef.push(_0x5ac0a9), !_0x5ac0a9.leaf && _0x17b4ef.length - 1 !== _0x53129e;) {
+          var _0x1f55a6;
+          var _0x5c0ddc;
+          var _0x202b5e;
+          var _0x4a4aa9;
+          var _0x1276ef;
+          var _0x891208;
+          for (; _0x17b4ef.push(_0x5ac0a9), !_0x5ac0a9.leaf && _0x17b4ef.length - 1 !== _0x53129e;) {
             _0x1276ef = _0x891208 = Infinity;
             _0x538011 = 0;
             _0x470755 = _0x5ac0a9.children.length;
@@ -81506,12 +81518,7 @@ function ws(_0x13c75c, _0x23c5aa = 16777215, _0x52bb5b = 16777215) {
     }
   }).setScrollFactor(0).setDepth(57);
 }
-const Ts = window.location.hostname;
-const bs = [103, 101, 111, 109, 101, 116, 114, 121, 100, 97, 115, 104, 46, 99, 111, 109].map(_0x1c1bb4 => String.fromCharCode(_0x1c1bb4)).join("");
-if (Ts !== bs && Ts !== "www." + bs && !Ts.endsWith("." + bs) && Ts !== "localhost") {
-  document.body.innerHTML = "";
-  throw new Error("");
-}
+
 const Ss = {
   type: s.AUTO,
   width: r,
